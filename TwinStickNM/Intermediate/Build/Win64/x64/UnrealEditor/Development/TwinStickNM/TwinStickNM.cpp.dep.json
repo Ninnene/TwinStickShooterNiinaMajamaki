@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\niina\\documents\\unreal projects\\twinsticknm\\source\\twinsticknm\\twinsticknm.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\niina\\documents\\unreal projects\\twinsticknm\\intermediate\\build\\win64\\x64\\twinsticknmeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\niina\\documents\\unreal projects\\twinsticknm\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twinsticknm\\definitions.twinsticknm.h",
+            "c:\\users\\niina\\documents\\unreal projects\\twinsticknm\\source\\twinsticknm\\twinsticknm.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

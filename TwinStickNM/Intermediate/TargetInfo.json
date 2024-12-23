@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TwinStickNM",
+			"Path": "..\\Source\\TwinStickNM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TwinStickNMEditor",
+			"Path": "..\\Source\\TwinStickNMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

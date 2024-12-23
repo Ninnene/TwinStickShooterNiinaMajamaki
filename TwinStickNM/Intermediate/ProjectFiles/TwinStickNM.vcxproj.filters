@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TwinStickNM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TwinStickNM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TwinStickNMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TwinStickNM">
+      <UniqueIdentifier>{61DE047A-9359-3457-AA9C-61D8117C3DB2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TwinStickNM\CharacterBaseC.cpp">
+      <Filter>Source\TwinStickNM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickNM\CharacterBaseC.h">
+      <Filter>Source\TwinStickNM</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TwinStickNM\TwinStickNM.Build.cs">
+      <Filter>Source\TwinStickNM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TwinStickNM\TwinStickNM.cpp">
+      <Filter>Source\TwinStickNM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinStickNM\TwinStickNM.h">
+      <Filter>Source\TwinStickNM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
