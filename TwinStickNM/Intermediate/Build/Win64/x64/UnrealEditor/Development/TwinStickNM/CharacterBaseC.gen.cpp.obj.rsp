@@ -1,11 +1,11 @@
-"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\UnrealEditor\Inc\TwinStickNM\UHT\CharacterBaseC.gen.cpp"
-/FI"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\TwinStickNMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\Definitions.TwinStickNM.h"
-/Yu"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\TwinStickNMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\TwinStickNMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\CharacterBaseC.gen.cpp.obj"
-/sourceDependencies "C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\CharacterBaseC.gen.cpp.dep.json"
-@"C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\TwinStickNM.Shared.rsp"
+"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\UnrealEditor\Inc\TwinStickNM\UHT\CharacterBaseC.gen.cpp"
+/FI"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\TwinStickNMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\Definitions.TwinStickNM.h"
+/Yu"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\TwinStickNMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\TwinStickNMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\CharacterBaseC.gen.cpp.obj"
+/sourceDependencies "C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\CharacterBaseC.gen.cpp.dep.json"
+@"C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickNM\TwinStickNM.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

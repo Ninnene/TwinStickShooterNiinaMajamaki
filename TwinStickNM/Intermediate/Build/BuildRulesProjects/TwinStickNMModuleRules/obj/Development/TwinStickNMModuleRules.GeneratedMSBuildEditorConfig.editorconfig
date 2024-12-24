@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TwinStickNMModuleRules
-build_property.ProjectDir = C:\Users\niina\Documents\GitHub\TwinStickShooterNiinaMajamaki\TwinStickNM\Intermediate\Build\BuildRulesProjects\TwinStickNMModuleRules\
+build_property.ProjectDir = C:\Users\niina\Documents\Unreal Projects\TwinStickNM\Intermediate\Build\BuildRulesProjects\TwinStickNMModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
