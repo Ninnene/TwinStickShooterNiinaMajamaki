@@ -1,1 +1,1 @@
-#include "C:/Users/niina/Documents/Unreal Projects/TwinStickNM/Source/TwinStickNM/CharacterBaseC.h"
+#include "C:/Users/niina/Documents/GitHub/TwinStickShooterNiinaMajamaki/TwinStickNM/Source/TwinStickNM/CharacterBaseC.h"

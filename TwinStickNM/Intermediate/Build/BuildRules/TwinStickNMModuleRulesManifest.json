@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\niina\\Documents\\Unreal Projects\\TwinStickNM\\Source\\TwinStickNM\\TwinStickNM.Build.cs",
-		"C:\\Users\\niina\\Documents\\Unreal Projects\\TwinStickNM\\Source\\TwinStickNM.Target.cs",
-		"C:\\Users\\niina\\Documents\\Unreal Projects\\TwinStickNM\\Source\\TwinStickNMEditor.Target.cs"
+		"C:\\Users\\niina\\Documents\\GitHub\\TwinStickShooterNiinaMajamaki\\TwinStickNM\\Source\\TwinStickNM\\TwinStickNM.Build.cs",
+		"C:\\Users\\niina\\Documents\\GitHub\\TwinStickShooterNiinaMajamaki\\TwinStickNM\\Source\\TwinStickNM.Target.cs",
+		"C:\\Users\\niina\\Documents\\GitHub\\TwinStickShooterNiinaMajamaki\\TwinStickNM\\Source\\TwinStickNMEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
